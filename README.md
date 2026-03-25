@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Rathi 👋 
+### Manager, Quality Engineering | AI-Driven QE Transformation
 
-<!--
-**rshan13/rshan13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a technical leader focused on building high-performing SDET teams and architecting scalable automation ecosystems. My approach balances **Engineering Excellence** with **Strategic Governance** to accelerate delivery without compromising quality.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Leadership Impact & Key Metrics
+* **CBC/Radio-Canada:** Drove a **35% gain in testing efficiency** by implementing AI-driven automation and scaling cross-platform frameworks using Appium and BrowserStack.
+* **Leap Event Technology:** Reduced production defect escape rates by **40%** through risk-based testing strategies and improved global team productivity by **30%**.
+* **Genesys Conferencing:** Achieved a **40% reduction in manual testing effort** by architecting automated CI/CD pipelines.
+
+---
+
+### 🛠️ Technical Playground & Expertise
+I use this space to experiment with emerging technologies and "Shift-Left" methodologies.
+
+* **Languages & Frameworks:** Java, Python, Selenium, Appium, PyTest, JUnit.
+* **Infrastructure & DevOps:** Docker, AWS, Jenkins, CI/CD Quality Gates.
+* **Specialized QE:** Visual AI Strategy, API Resiliency (Contract Testing), Mobile Device Farming.
+
+---
+
+### 🎓 Certifications & Professional Focus
+* **Certified SAFe 5 Scrum Master**
+* **Strategic QE Governance:** Scaling SDET teams and mentoring technical talent.
+* **Data-Driven Quality:** Utilizing Google Looker Studio for real-time delivery health signals.
+
+---
+
+### 📫 Connect with Me
+* [LinkedIn](https://www.linkedin.com/in/rathishan/) 
+* [Portfolio/Projects](https://github.com/rshan13?tab=repositories)
+
+*"Quality is not an act, it is a habit."*
